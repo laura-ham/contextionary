@@ -5,6 +5,15 @@
 Not intended for stand-alone use, use through [weaviate - the decentralized
 knowledge graph](https://github.com/semi-technologies/weaviate).
 
+## Documentation
+
+[Documentation](https://www.semi.technology/documentation/weaviate/current/contextionary.html)
+
+## Support
+
+- [Stackoverflow for questions](https://stackoverflow.com/questions/tagged/weaviate).
+- [Github for issues](https://github.com/semi-technologies/weaviate/issues).
+
 ## Versioning
 
 The version tag is `<language-of-db><semver-of-db>-v<semver-of-app>`. So for
